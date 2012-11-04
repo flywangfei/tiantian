@@ -1,0 +1,6 @@
+<?php
+return "INSERT INTO `".$BIAOTOU."huan_goods` (`id`, `cid`, `img`, `jifen`, `money`, `title`, `hide`, `addtime`, `sort`, `content`, `num`, `array`, `auto`, `sdate`, `edate`, `limit`) VALUES
+(1, 13, 'http://amberfun.fenfun.com/home/attachment/buy/1252382127_small.jpg', 100, 10.00, '10Q币', 0, 1335529021, 0, '&nbsp;<p align=\"center\"><img border=\"0\" alt=\"\" src=\"http://amberfun.fenfun.com/home/attachment/buy/1252382127_small.jpg\" /></p>', 99, NULL, 0, 0, 0, 0),
+(2, 13, 'http://amberfun.fenfun.com/home/attachment/buy/1252382127_small.jpg', 200, 20.00, '20Q币', 0, 1335529021, 0, '&nbsp;<p align=\"center\"><img border=\"0\" alt=\"\" src=\"http://amberfun.fenfun.com/home/attachment/buy/1252382127_small.jpg\" /></p>', 100, NULL, 0, 0, 0, 0),
+(3, 13, 'http://amberfun.fenfun.com/home/attachment/buy/1252382127_small.jpg', 300, 30.00, '30Q币', 0, 1335529021, 0, '&nbsp;<p align=\"center\"><img border=\"0\" alt=\"\" src=\"http://amberfun.fenfun.com/home/attachment/buy/1252382127_small.jpg\" /></p>', 100, NULL, 0, 0, 0, 0),
+(4, 13, 'http://amberfun.fenfun.com/home/attachment/buy/1252382127_small.jpg', 400, 40.00, '40Q币', 0, 1335529021, 0, '&nbsp;<p align=\"center\"><img border=\"0\" alt=\"\" src=\"http://amberfun.fenfun.com/home/attachment/buy/1252382127_small.jpg\" /></p>', 100, NULL, 0, 0, 0, 0);";

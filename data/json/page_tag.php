@@ -1,0 +1,1 @@
+<?php exit;?>{"tao\/zhe":"zhekou","huodong\/list":"mall","shop\/list":"tao"}
