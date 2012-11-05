@@ -1,7 +1,7 @@
 <?php
-$dbserver='localhost';
+$dbserver='42.121.120.54';
 $dbuser='root';
-$dbpass='vertrigo';
+$dbpass='123456';
 $dbname='duoduo';
 $BIAOTOU='duoduo_';
 define('BIAOTOU',$BIAOTOU);
